@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Software Engineering Project
+🌱 I’m currently studying 
+
 <!--
 **viols-code/viols-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
