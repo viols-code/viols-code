@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Viola
-🧬 Interested in Bioinformatics 
+🧬 Interested in Bioinformatics
 📖 Currently attending the third year of Bachelor's Degree in Engineering of Computing Systems
 🔭 I’m currently working on Software Engineering Project
 
