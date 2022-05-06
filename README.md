@@ -10,6 +10,7 @@
 #### Bachelor
 - [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
 - [POCASA and PASS](https://github.com/viols-code/ingegneria-informatica-project) - Implemented POCASA and PASS algorithms
+- [Fundations of Operative Research]() 
 - [Convolutional code](https://github.com/viols-code/rl-project-2021-2022) - VHDL hardware description to program an FPGA for a convolutional code
 - [GraphRanker](https://github.com/viols-code/API-Project-2020-2021) - Management of a ranking between weighed directed graphs
 ---
