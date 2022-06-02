@@ -7,7 +7,7 @@
 
 ---
 ### University Projects
-#### Bachelor
+#### Bachelor - Engineering of Computing Systems @Polimi
 - [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
 - [POCASA and PASS](https://github.com/viols-code/ingegneria-informatica-project) - Implemented POCASA and PASS algorithms
 - [Fundations of Operative Research](https://github.com/leonardo-panseri/for-project-2022) 
