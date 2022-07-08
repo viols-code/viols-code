@@ -3,7 +3,9 @@
 
 📖 Currently attending the third year of Bachelor's Degree in Engineering of Computing Systems
 
+<!--
 🔭 I’m currently working on Software Engineering Project
+-->
 
 ---
 ### University Projects
