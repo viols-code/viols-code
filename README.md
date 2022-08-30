@@ -10,6 +10,8 @@
 ---
 ### University Projects
 #### Bachelor - Engineering of Computing Systems @Polimi
+I cannot publich all the projects until March 2023
+
 - [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
 - [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
 - [Fundations of Operative Research Project](https://github.com/leonardo-panseri/for-project-2022) - Vehicle routing problem
