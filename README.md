@@ -12,11 +12,11 @@
 #### Bachelor - Engineering of Computing Systems @Polimi
 I cannot publish all the projects until Dicember 2022
 
-- [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - Software Engineering Project - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
-- [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
-- [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022) - Fundations of Operative Research Project
-- [Convolutional code](https://github.com/viols-code/rl-project-2021-2022) - Digital circuit design project - VHDL hardware description to program an FPGA for a convolutional code
-- [GraphRanker](https://github.com/viols-code/API-Project-2020-2021) - Algorithm andManagement of a ranking between weighed directed graphs
+- Software Engineering Project: [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
+- Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
+- Fundamentals of Operations Research Projec: [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022)
+- Digital logic design project: [Convolutional code](https://github.com/viols-code/rl-project-2021-2022) - VHDL hardware description to program an FPGA for a convolutional code
+- Algorithm and principles of computer science: [GraphRanker](https://github.com/viols-code/API-Project-2020-2021) - Management of a ranking between weighed directed graphs
 ---
 
 <!--
