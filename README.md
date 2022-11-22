@@ -9,7 +9,7 @@
 
 ---
 ### University Projects
-#### Master - Computer Science and Engineering Single Courses @Polimi - 2022/2023
+#### Single Courses at Master Level - Computer Science and Engineering @Polimi - 2022/2023
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification
 
 #### Bachelor - Engineering of Computing Systems @Polimi - 2019/2022
