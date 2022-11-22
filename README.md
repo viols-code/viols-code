@@ -9,8 +9,10 @@
 
 ---
 ### University Projects
-#### Bachelor - Engineering of Computing Systems @Polimi
-I cannot publish all the projects until Dicember 2022
+#### Master - Computer Science and Engineering Single Courses @Polimi - 2022/2023
+- Artificial Neural Network and Deep Learning: [AN2DL Challenges]() - Image Classification
+
+#### Bachelor - Engineering of Computing Systems @Polimi - 2019/2022
 
 - Software Engineering Project: [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
 - Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
