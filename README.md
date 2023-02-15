@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Viola
 🧬 Interested in Bioinformatics
+🧑‍🔬 Research Intern at Mario Negri
+👩‍🎓 B.Sc. in Engineering of Computing Systems @ Polimi 
 
-📖 Currently attending some courses on ML, Bioinformatics and Graphs @Polimi
 
 <!--
 🔭 I’m currently working on Software Engineering Project
