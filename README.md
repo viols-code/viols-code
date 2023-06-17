@@ -11,6 +11,7 @@
 ### University Projects
 #### Single Courses at Master Level - Computer Science and Engineering @Polimi - 2022-2023
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
+- Algorithm and Principles of Computer Science Project (Private until February 2024): [Electric Vehicles Shortest Path](https://github.com/viols-code/algorithms_project_2023)
 
 #### Bachelor - Engineering of Computing Systems @Polimi - 2019-2022
 - Software Engineering Project: [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
