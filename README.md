@@ -11,6 +11,7 @@
 ### University Projects
 #### Python programming
 - Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
+- Scientific Programming Project : [Algebraic Properties](https://github.com/viols-code/algebraic_properties)
 - Fundamentals of Operations Research Project: [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022)
   
 #### Machine Learning & Deep Learning
