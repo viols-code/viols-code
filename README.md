@@ -12,7 +12,7 @@
 #### Python programming
 - Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
 - Scientific Programming Project: [Algebraic Properties](https://github.com/viols-code/algebraic_properties) - Verified experimentally the hypothesis BA = AB if B = cA using multiprocessing in Python
-- Fundamentals of Operations Research Project: [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022)
+- Fundamentals of Operations Research Project: [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022) - Model for a vehicle routing problem for a fictional company ”RoboMarkt” that needs to keep shops stocked in large rural areas
   
 #### Machine Learning & Deep Learning
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
