@@ -24,7 +24,7 @@
 #### Object-Oriented Programming (Java)
 - Software Engineering Project: [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
 
-#### Harward description language
+#### Hardware description language
 - Digital Logic Design Project: [Convolutional code](https://github.com/viols-code/rl-project-2021-2022) - VHDL hardware description to program an FPGA for a convolutional code
 ---
 
