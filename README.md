@@ -1,18 +1,13 @@
 ### Hi there 👋 I am Viola
 🧬 Interested in Bioinformatics   
-👩‍🎓 B.Sc. in Engineering of Computing Systems @ Polimi    
-
-
-<!--
-🔭 I’m currently working on Software Engineering Project
--->
+👩‍🎓 B.Sc. in Engineering of Computing Systems @ Polimi
 
 ---
 ### University Projects
-#### Python programming
+#### Scientific programming in Python:
 - Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
 - Scientific Programming Project: [Algebraic Properties](https://github.com/viols-code/algebraic_properties) - Verified experimentally the hypothesis BA = AB if B = cA using multiprocessing in Python
-- Fundamentals of Operations Research Project: [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022) - Model for a vehicle routing problem for a fictional company ”RoboMarkt” that needs to keep shops stocked in large rural areas
+- Scientific Programming Project: [Knuth-Morris-Pratt parallel algorithm](https://github.com/viols-code/Knuth-Morris-Pratt_parallel_algorithm) - Implemented Knuth-Morris-Pratt algorithm using multiprocessing in Python
   
 #### Machine Learning & Deep Learning
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
@@ -20,6 +15,9 @@
 #### C Programming
 - Algorithms and Principles of Computer Science Project (Private until February 2024): [Electric Vehicles Shortest Path](https://github.com/viols-code/algorithms_project_2023)
 - Algorithms and Principles of Computer Science Project: [GraphRanker](https://github.com/viols-code/API-Project-2020-2021) - Management of a ranking between weighed directed graphs
+
+#### Operations Research:
+- Fundamentals of Operations Research Project: [Vehicle Routing Problem](https://github.com/leonardo-panseri/for-project-2022) - Model for a vehicle routing problem for a fictional company ”RoboMarkt” that needs to keep shops stocked in large rural areas
 
 #### Object-Oriented Programming (Java)
 - Software Engineering Project: [Eriantys](https://github.com/viols-code/ing-sw-2022-renne-resta-puccioni) - JavaFX implementation of board game [Eriantys](https://www.craniocreations.it/prodotto/eriantys/)
