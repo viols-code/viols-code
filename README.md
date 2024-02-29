@@ -14,7 +14,7 @@
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
 
 #### C Programming
-- Algorithms and Principles of Computer Science Project (Private until February 2024): [Electric Vehicles Shortest Path](https://github.com/viols-code/algorithms_project_2023)
+- Algorithms and Principles of Computer Science Project: [Electric Vehicles Shortest Path](https://github.com/viols-code/algorithms_project_2023)
 - Algorithms and Principles of Computer Science Project: [GraphRanker](https://github.com/viols-code/API-Project-2020-2021) - Management of a ranking between weighed directed graphs
 
 #### Operations Research:
