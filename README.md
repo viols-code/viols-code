@@ -9,6 +9,7 @@
 -  Scientific Programming Project: [Pairwise sequence alignment](https://github.com/viols-code/pairwise-sequence-alignment) - Implemented Needleman-Wunsch and Smith-Waterman algorithms
 - Scientific Programming Project: [Algebraic Properties](https://github.com/viols-code/algebraic_properties) - Verified experimentally the hypothesis BA = AB if B = cA using multiprocessing in Python
 - Scientific Programming Project: [Knuth-Morris-Pratt parallel algorithm](https://github.com/viols-code/Knuth-Morris-Pratt_parallel_algorithm) - Implemented Knuth-Morris-Pratt algorithm using multiprocessing in Python
+- Genome to function Project: [Genome To Function](https://github.com/viols-code/genome_to_function) - Three assignments for the course of Life Sciences engineering: genome to function (BIO-411) at EPFL
   
 #### Machine Learning & Deep Learning
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
