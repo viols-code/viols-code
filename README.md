@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Viola
 🧬 Interested in Bioinformatics   
-📚 M. Sc. in Life Sciences Engineering @EPFL
+📚 M. Sc. in Life Sciences Engineering @EPFL  
 👩‍🎓 B.Sc. in Engineering of Computing Systems @ Polimi
 
 ---
