@@ -20,7 +20,7 @@
   
 #### Machine Learning & Deep Learning
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
-- Deep Learning Project: COMING SOON
+- Deep Learning Project: [Improving explainability of sexism detection in social media text](https://github.com/viols-code/DeepLearningProject)
 - Deep Learning Assignments: COMING SOON
 
 #### C Programming
