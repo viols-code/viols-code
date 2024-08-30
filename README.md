@@ -13,7 +13,7 @@
 - Genome to function Assignments: [Genome To Function](https://github.com/viols-code/genome_to_function) - Three assignments for the course of Life Sciences engineering: genome to function (BIO-411) at EPFL
 
 #### Scientific programming in R:
-- Genomics and Bioinformatics Assignments: COMING SOON
+- Genomics and Bioinformatics Assignments: [Genomics and Bioinformatics](https://github.com/viols-code/genomics_and_bioinformatics) - Two assignments and one mini-project
   
 #### Machine Learning & Deep Learning
 - Deep Learning Project: [Improving explainability of sexism detection in social media text](https://github.com/viols-code/DeepLearningProject)
