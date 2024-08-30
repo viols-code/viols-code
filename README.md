@@ -14,9 +14,6 @@
 
 #### Scientific programming in R:
 - Genomics and Bioinformatics Assignments: COMING SOON
-
-#### Statistics in R:
-- Applied Biostatistics Assignments: COMING SOON
   
 #### Machine Learning & Deep Learning
 - Deep Learning Project: [Improving explainability of sexism detection in social media text](https://github.com/viols-code/DeepLearningProject)
