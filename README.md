@@ -6,7 +6,7 @@
 ---
 ### University Projects
 #### Data Analysis Projects
-- ADA Project: [ADA]([https://github.com/viols-code/ingegneria-informatica-project](https://github.com/epfl-ada/ada-2024-project-abrac-adabra)) - Analyzed protein-ligand interactions using embeddings to predict patterns and identify key mutation sites, leveraging the BindingDB database.
+- ADA Project: [ADA](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) - Analyzed protein-ligand interactions using embeddings to predict patterns and identify key mutation sites, leveraging the BindingDB database.
 
 #### Scientific programming in Python:
 - Projects in Genomics and Genetics: - GWAS study and Single-cell analysis
