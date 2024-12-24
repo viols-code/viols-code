@@ -9,7 +9,7 @@
 - ADA Project: [ADA](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) - Analyzed protein-ligand interactions using embeddings to predict patterns and identify key mutation sites, leveraging the BindingDB database.
 
 #### Scientific programming in Python:
-- Projects in Genomics and Genetics: - GWAS study and Single-cell analysis
+- Projects in Genomics and Genetics: [GWAS study and single-cell analysis on genomic data](https://github.com/viols-code/genetics_and_genomics) - GWAS study and Single-cell analysis
 - Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
 -  Scientific Programming Project: [Pairwise sequence alignment](https://github.com/viols-code/pairwise-sequence-alignment) - Implemented Needleman-Wunsch and Smith-Waterman algorithms
 - Scientific Programming Project: [Algebraic Properties](https://github.com/viols-code/algebraic_properties) - Verified experimentally the hypothesis BA = AB if B = cA using multiprocessing in Python
