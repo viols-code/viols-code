@@ -18,7 +18,6 @@
 #### Machine Learning & Deep Learning
 - Deep Learning Project: [Improving explainability of sexism detection in social media text](https://github.com/viols-code/DeepLearningProject)
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
-- Deep Learning Assignments: [Deep Leaning Assignments](https://github.com/viols-code/DeepLearningAssignments)
 
 #### C Programming
 - Algorithms and Principles of Computer Science Project: [Electric Vehicles Shortest Path](https://github.com/viols-code/algorithms_project_2023)
