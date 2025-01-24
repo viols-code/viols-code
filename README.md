@@ -9,12 +9,10 @@
 - ADA Project: [ADA](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) - Analyzed protein-ligand interactions using embeddings to predict patterns and identify key mutation sites, leveraging the BindingDB database.
 
 #### Scientific programming in Python:
-- Projects in Genomics and Genetics: [GWAS study and single-cell analysis on genomic data](https://github.com/viols-code/genetics_and_genomics) - GWAS study and Single-cell analysis
 - Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
 -  Scientific Programming Project: [Pairwise sequence alignment](https://github.com/viols-code/pairwise-sequence-alignment) - Implemented Needleman-Wunsch and Smith-Waterman algorithms
 - Scientific Programming Project: [Algebraic Properties](https://github.com/viols-code/algebraic_properties) - Verified experimentally the hypothesis BA = AB if B = cA using multiprocessing in Python
 - Scientific Programming Project: [Knuth-Morris-Pratt parallel algorithm](https://github.com/viols-code/Knuth-Morris-Pratt_parallel_algorithm) - Implemented Knuth-Morris-Pratt algorithm using multiprocessing in Python
-- Genome to function Assignments: [Genome To Function](https://github.com/viols-code/genome_to_function) - Three assignments for the course of Life Sciences engineering: genome to function (BIO-411) at EPFL
 
 #### Scientific programming in R:
 - Genomics and Bioinformatics Assignments: [Genomics and Bioinformatics](https://github.com/viols-code/genomics_and_bioinformatics) - Two assignments and one mini-project
