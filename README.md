@@ -1,24 +1,27 @@
-### Hi there 👋 I am Viola
-🧬 Interested in Bioinformatics   
+### 👋 Hi, I'm Viola
+🧬 Aspiring Machine Learning Engineer & Computational Biologist  
+📍 Interested in Bioinformatics, Data Science, and AI for Life Sciences
+
+🎓 Education
 📚 M. Sc. in Life Sciences Engineering @EPFL  
 👩‍🎓 B.Sc. in Engineering of Computing Systems @ Polimi
 
 ---
-### University Projects
-#### Data Analysis Projects
+### Projects
+#### Communication & Teaching
+[Online tutorial on linear models](https://www.ebi.ac.uk/training/online/courses/getting-started-linear-models/)
+
+#### Data Analysis
 - ADA Project: [ADA](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) - Analyzed protein-ligand interactions using embeddings to predict patterns and identify key mutation sites, leveraging the BindingDB database.
 
-#### Scientific programming in Python:
-- Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
-
-#### Scientific programming in R:
-- Genomics and Bioinformatics Assignments: [Genomics and Bioinformatics](https://github.com/viols-code/genomics_and_bioinformatics) - Two assignments and one mini-project
-  
 #### Machine Learning & Deep Learning
 - Deep Learning Project: [Improving explainability of sexism detection in social media text](https://github.com/viols-code/DeepLearningProject)
 - Artificial Neural Network and Deep Learning: [AN2DL Challenges](https://github.com/viols-code/AN2DL_challenges_2022) - Image Classification and Time Series Classification
 
-#### C Programming
+#### Scientific programming in Python:
+- Project in Computer Science and Engineering: [POCASA and PASS methods](https://github.com/viols-code/ingegneria-informatica-project) - Analysis and implementation of methods for the identification of target sites within proteins to support the discovery of new drugs
+
+#### Algorithms in C
 - Algorithms and Principles of Computer Science Project: [Electric Vehicles Shortest Path](https://github.com/viols-code/algorithms_project_2023)
 - Algorithms and Principles of Computer Science Project: [GraphRanker](https://github.com/viols-code/API-Project-2020-2021) - Management of a ranking between weighed directed graphs
 
@@ -32,11 +35,6 @@
 - Digital Logic Design Project: [Convolutional code](https://github.com/viols-code/rl-project-2021-2022) - VHDL hardware description to program an FPGA for a convolutional code
 ---
 
-<!--
-### Volunteering Projects
-#### 
-- [Coding Introduction](https://github.com/viols-code/Introduzione-alla-programmazione) - I organised a Computer Science course in order to help a group of students who had decided to apply to a STEM University, but had never studied Computer Science before
--->
 <!--
 **viols-code/viols-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
