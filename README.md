@@ -9,7 +9,7 @@
 ---
 ### Projects
 #### Communication & Teaching
-[Online tutorial on linear models](https://www.ebi.ac.uk/training/online/courses/getting-started-linear-models/)
+- [Online tutorial on linear models](https://www.ebi.ac.uk/training/online/courses/getting-started-linear-models/)
 
 #### Data Analysis
 - ADA Project: [ADA](https://github.com/epfl-ada/ada-2024-project-abrac-adabra) - Analyzed protein-ligand interactions using embeddings to predict patterns and identify key mutation sites, leveraging the BindingDB database.
