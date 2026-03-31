@@ -2,7 +2,7 @@
 🧬 Aspiring Machine Learning Engineer & Computational Biologist  
 📍 Interested in Bioinformatics, Data Science, and AI for Life Sciences
 
-🎓 Education
+🎓 Education  
 📚 M. Sc. in Life Sciences Engineering @EPFL  
 👩‍🎓 B.Sc. in Engineering of Computing Systems @ Polimi
 
